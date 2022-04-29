@@ -99,7 +99,7 @@ h3 {
 
 form {
     display: flex;
-    margin-left: 3rem;
+    margin-left: 2rem;
     align-items: left;
     justify-content: center;
     flex-direction: column;
@@ -124,8 +124,6 @@ select:hover, input:hover {
 }
 
 div .button {
-    /* padding-left: 1rem;
-    margin: 2rem 6rem; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -152,7 +150,7 @@ div .submit-button {
     width: 87.25%;
     border-radius: 0.25rem;
     margin-top: 1rem;
-    margin-left: 3rem;
+    margin-left: 2rem;
     padding: 1rem;
 }       
 
