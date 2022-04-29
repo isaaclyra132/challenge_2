@@ -153,6 +153,7 @@ div .submit-button {
     border-radius: 0.25rem;
     margin-top: 1rem;
     margin-left: 3rem;
+    padding: 1rem;
 }       
 
 .faster-shipping{
