@@ -1,19 +1,19 @@
 <template>
   <div id="app">
-    <BestTransport/>
-    <TesteComponent />
+    <NavBar/>
+    <MainSection />
   </div>
 </template>
 
 <script>
-import BestTransport from './components/BestTransport.vue'
-import TesteComponent from './components/TransportForm/index.vue'
+import NavBar from './components/NavBar.vue'
+import MainSection from './components/MainSection.vue'
 
 export default {
   name: 'App',
   components: {
-    BestTransport,
-    TesteComponent
+    NavBar,
+    MainSection
   }
 }
 </script>
